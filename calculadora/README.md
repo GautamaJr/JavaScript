@@ -1,4 +1,5 @@
 <h1 align="center">Calculadora :calling:</h1>
 
-- 📂 Esse repositório tem como objetivo mostrar alguns dos projetos feitos por mim durante a realização de alguns cursos. 
-- ⚠️ As linguagens e recursos utlizados para o desenvolvimento dos projetos foram: HTML, CSS e JavaScript.
+- Nesse projeto foi desenvolvido uma calculadora simples com as operações básicas: soma, subtração, divisão e multiplicação.
+
+![calculadora](https://user-images.githubusercontent.com/109612954/232550896-70ae6304-745a-4a75-b560-addda6edeb9c.png)
