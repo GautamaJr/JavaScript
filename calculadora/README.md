@@ -1,4 +1,4 @@
-<h1 align="center">Calculadora :calling:</h1>
+<h1 align="center">Calculadora :1234:</h1>
 
 - 📂 Nesse projeto foi desenvolvido uma calculadora simples com as operações básicas: soma, subtração, divisão e multiplicação.
 
