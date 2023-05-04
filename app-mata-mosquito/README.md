@@ -1,6 +1,6 @@
-<h1 align="center">App Mata Mosquito :1234:</h1>
+<h1 align="center">App Game Mata Mosquito :mosquito:</h1>
 
-- 📂 Nesse projeto foi desenvolvido uma calculadora simples com as operações básicas: Soma, Subtração, Divisão e Multiplicação.
+- 📂 Nesse projeto foi desenvolvido um Game, onde seu objetivo principal é matar todos os mosquitos antes de finalizar o tempo. De ínicio, é necessario selecionar o nível de dificuldade desejavel, sendo eles: Normal, Dificil e Muito Dificil.
 
 - ⚠️ As linguagens e recursos utlizados para o desenvolvimento desse projeto foram: HTML, CSS e JavaScript.
 
