@@ -1,6 +1,6 @@
 <h1 align="center">App Orcamento Pessoal :moneybag:</h1>
 
-- 📂 A ideia desta aplicação tem como objetivo permitir o cadastro de despesas, que serão armazenadas no navegador do usuário utilizando o recurso de Local Storage. A aplicação permite a inclusão e consulta de registros. Para cadastrar uma nova despesa, é necessário informar o ano, mês, dia, tipo de despesa, descrição e valor. Se algum dos campos estiver em branco, o aplicativo irá informar um erro. Ao consultar os registros, é possível filtrá-los por ano, mês, dia, tipo de despesa e descrição.
+- 📂 A ideia desta aplicação tem como objetivo permitir o cadastro de despesas, que serão armazenadas no navegador do usuário utilizando o recurso de Local Storage. A aplicação permite a inclusão e consulta de registros. Para cadastrar uma nova despesa, é necessário informar o ano, mês, dia, tipo de despesa, descrição e valor. Se algum dos campos estiver em branco ao realizar um cadastro, o aplicativo irá informar um erro. Ao consultar os registros, é possível filtrá-los por ano, mês, dia, tipo de despesa e descrição.
 
 - ⚠️ As linguagens e recursos utlizados para o desenvolvimento desse projeto foram: HTML, CSS e JavaScript.
 
