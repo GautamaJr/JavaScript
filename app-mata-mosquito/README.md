@@ -4,6 +4,8 @@
 
 - ⚠️ As linguagens e recursos utlizados para o desenvolvimento desse projeto foram: HTML, CSS, JavaScript e Bootstrap.
 
+- :technologist: Curso realizado: https://www.udemy.com/course/web-completo/
+
 
 ![foto1](https://user-images.githubusercontent.com/109612954/236110896-a9846d26-e838-448d-ab1d-7cc504117413.png)
 ![foto2](https://user-images.githubusercontent.com/109612954/236110903-f53fb9ec-01c0-4a93-b04d-2cf322db0b49.png)
