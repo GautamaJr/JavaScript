@@ -4,7 +4,7 @@
 
 - ⚠️ As linguagens e recursos utlizados para o desenvolvimento desse projeto foram: HTML, CSS, JavaScript e Bootstrap.
 
-- :technologist: Curso realizado: https://class.devsamurai.com.br/resources/209
+- :technologist: Curso realizado: https://devsamurai.com.br/
 
 ![Captura de tela 2023-05-04 123035](https://user-images.githubusercontent.com/109612954/236274132-b694cc0a-ff26-4a4a-a84b-e1436361b0da.png)
 ![Captura de tela 2023-05-04 123105](https://user-images.githubusercontent.com/109612954/236274138-e80f0e3f-f32f-4a5b-8593-167db7752dd7.png)
